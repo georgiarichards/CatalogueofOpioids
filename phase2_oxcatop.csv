@@ -1,0 +1,229 @@
+﻿drug_name,molecular_formula,mole_weight_g_mol​,MOP,effect_MOP,DOP,effect_DOP,KOP,effect_KOP,NOP,effect_NOP,class
+3-methylfentanyl,C23H30N2O ,350.5,1,agonist,1,agonist,1,agonist,0,,synthetic
+3-methylthiofentanyl,C21H28N2OS,356.5,1,agonist,1,agonist,1,agonist,0,,synthetic
+4-chloroisobutyrfentanyl,C23H29ClN2O,384.95,,,,,,,,,synthetic
+4-fluoroisobutyrfentanyl,C23H29FN2O,368.5,1,agonist,,,,,,,synthetic
+4-phenylfentanyl,"	C28H32N2O",412.6,,,,,,,,,synthetic
+6'-guanidinonaltrindole,C27H29N5O3,471.5,,,,,1,agonist,,,synthetic
+acetorphine,C27H35NO5,453.6,,,,,,,,,synthetic
+acetyldihydrocodeine,C20H25NO4,343.4,,,,,,,,,semi-synthetic
+acetylfentanyl,C21H26N2O,322.4,1,agonist,,,,,,,synthetic
+acetylmethadol,C23H31NO2,353.5,1,agonist,,,,,,,synthetic
+acrylfentanyl,C22H26N2O,334.5,1,agonist,,,,,,,synthetic
+AH-7921,C16H22Cl2N2O,329.3,1,agonist,0,,1,agonist,0,,synthetic
+alfentanil,C21H32N6O3,416.5,1,agonist,,,,,,,synthetic
+alimadol,C19H23NO,281.4,,,,,,,,,synthetic
+alletorphine,C27H35NO4,437.6,,,,,,,,,synthetic
+allylprodine,"	C18H25NO2",287.4,1,agonist,,,,,,,synthetic
+alphacetylmethadol,C23H32ClNO2,390,,,,,,,,,synthetic
+alphameprodine,C17H25NO2,275.4,,,,,,,,,synthetic
+alphamethadol,C21H29NO,311.5,,,,,,,,,synthetic
+alphamethylacetylfentanyl,C22H28N2O,336.5,1,agonist,,,,,,,synthetic
+alphamethylfentanyl,C23H30N2O,350.5,1,agonist,,,,,,,synthetic
+alphamethylthiofentanyl,C21H28N2OS,356.5,1,agonist,,,,,,,synthetic
+alphaprodine,C16H23NO2,261.36,,,,,,,,,synthetic
+alvimopan,C25H32N2O4,424.5,1,antagonist,1,antagonist,1,antagonist,0,,synthetic
+anazocine,C16H23NO,245.36,,,,,,,,,synthetic
+anileridine,C22H28N2O2,352.5,1,agonist,,,,,,,synthetic
+apadoline,C23H29N3OS,395.6,,,,,1,agonist,,,synthetic
+asalhydromorphone,C35H31NO9,609.6,1,agonist,,,,,,,synthetic
+asimadoline,C27H30N2O2,414.5,0,,0,,1,agonist,,,synthetic
+axomadol,C16H25NO3,279.37,,,,,,,,,synthetic
+benzethidine,C23H29NO3,367.5,,,,,,,,,synthetic
+benzodioxolefentanyl,C27H28N2O3,428.5,1,agonist,,,,,,,synthetic
+benzoylfentanyl,"	C26H28N2O",384.5,1,agonist,,,,,,,synthetic
+benzyhydrocodone,C25H25NO4,403.5,0,,0,,0,,0,,synthetic
+benzylfentanyl,"	C21H26N2O",322.4,1,agonist,,,,,,,synthetic
+benzylmorphine,C24H25NO3,375.5,,,,,,,,,semi-synthetic
+betacetylmethadol,C23H31NO2,353.5,,,,,,,,,synthetic
+betahydroxyfentanyl,C22H28N2O2,352.5,1,agonist,,,,,,,synthetic
+betahydroxythiofentanyl,C20H26N2O2S,358.5,1,agonist,,,,,,,synthetic
+betameprodine,C17H25NO2,275.4,,,,,,,,,synthetic
+betamethadol,C21H29NO,311.5,,,,,,,,,synthetic
+betamethylfentanyl,"	C23H30N2O",350.5,1,agonist,,,,,,,synthetic
+betaprodine,"	C16H23NO2",261.36,,,,,,,,,synthetic
+bezitramide,C31H32N4O2,492.6,,,,,,,,,synthetic
+bremazocine,"	C20H29NO2",315.4,1,antagonist,1,agonist,1,agonist,,,synthetic
+brifentanil,C20H29FN6O3,420.5,1,agonist,,,,,,,synthetic
+bromadoline,C15H21BrN2O,325.24,,,,,,,,,synthetic
+brorphine,C20H22BrN3O,400.32,1,agonist,,,,,,,synthetic
+BU-08028,C30H43NO4,481.7,1,agonist,,,,,1,agonist,synthetic
+buprenorphine,C29H41NO4,467.6,1,partial agonist,1,antagonist,1,antagonist,1,agonist,semi-synthetic
+butinazocine,C18H23NO2,285.4,,,,,,,,,synthetic
+butorphanol,C21H29NO2,327.5,1,agonist,1,agonist,1,agonist,,,synthetic
+butyrfentanyl,C23H30N2O,350.5,1,agonist,1,partial agonist,1,partial agonist,,,synthetic
+carbazocine,C22H28N2,320.5,,,,,,,,,synthetic
+carfentanil,"	C24H30N2O3",394.5,1,agonist,1,agonist,1,agonist,,,synthetic
+carperidine,C17H24N2O3,304.4,,,,,,,,,synthetic
+ciramadol,C15H23NO2,249.35,1,mixed,,,,,,,synthetic
+clonitazene,C20H23ClN4O2,386.9,,,,,,,,,synthetic
+codeine,"	C18H21NO3",299.4,1,agonist,0,,0,,0,,alkaloid
+codoxime,C20H24N2O5,372.4,,,,,,,,,semi-synthetic
+cogazocine,C21H31NO,313.5,,,,,,,,,synthetic
+crotonylfentanyl,"	C23H28N2O",348.5,1,agonist,,,,,,,synthetic
+cyclazocine,C18H25NO,271.4,1,agonist,1,agonist,1,agonist,,,synthetic
+cyclopentylfentanyl,C25H32N2O2,376.5,1,agonist,,,,,,,synthetic
+cyclopropylfentanyl,C23H28N2O,348.5,1,agonist,0,,0,,,,synthetic
+cyprenorphine,C26H33NO4,423.5,,,,,,,,,synthetic
+desmethylmoramide,C24H30N2O2,378.5,,,,,,,,,synthetic
+desmethylprodine,C15H21NO2,247.33,,,,,,,,,synthetic
+desmetramadol,C15H23NO2,249.35,1,agonist,,,,,,,synthetic
+desomorphine,C17H21NO2,271.35,1,agonist,1,agonist,1,agonist,,,semi-synthetic
+dextromethorphan,C18H25NO,271.4,1,agonist,1,agonist,1,agonist,,,synthetic
+dextromoramide,C25H32N2O2,392.5,1,agonist,,,,,,,synthetic
+dextropropoxyphene,C22H29NO2,339.5,1,agonist,1,agonist,1,antagonist,,,synthetic
+dezocine,C16H23NO,245.36,1,partial agonist,0,,1,antagonist,,,synthetic
+diamorphine,C21H23NO5,369.4,1,agonist,1,agonist,1,agonist,,,semi-synthetic
+diampromide,C21H28N2O,324.5,,,,,,,,,synthetic
+dibenzoylmorphine,C31H27NO5,493.5,,,,,,,,,semi-synthetic
+diethylthiambutene,C16H21NS2,291.5,,,,,,,,,synthetic
+difenoxin,C28H28N2O2,424.5,1,agonist,,,,,,,synthetic
+dihydrocodeine,C18H23NO3,301.4,1,agonist,,,,,,,semi-synthetic
+dihydroetorphine,C25H35NO4,413.5,1,agonist,1,agonist,1,agonist,1,partial agonist,semi-synthetic
+dihydromorphine,C17H21NO3,287.35,1,agonist,1,agonist,1,agonist,,,semi-synthetic
+dimemorfan,C18H25NO,255.4,,,,,,,,,synthetic
+dimenoxadol,C20H25NO3,327.4,,,,,,,,,synthetic
+dimepheptanol,C21H29NO,311.5,,,,,,,,,synthetic
+dimethylthiambutene,C14H17NS2,263.4,1,agonist,1,agonist,,,,,synthetic
+dinalbuphine,C52H68N2O10,881.1,,,,,,,,,synthetic
+dioxaphetyl,C22H27NO3,353.5,1,agonist,1,agonist,1,agonist,,,synthetic
+diphenoxylate,"	C30H32N2O2",452.6,1,agonist,1,agonist,0,,,,synthetic
+dipipanone,C24H31NO,349.5,,,,,,,,,synthetic
+diprenorphine,C26H35NO4,425.6,1,antagonist,1,antagonist,1,antagonist,,,synthetic
+drotebanol,C19H27NO4,333.4,,,,,,,,,synthetic
+eluxadoline,C32H35N5O5,569.6,1,agonist,1,antagonist,1,agonist,,,synthetic
+embutramide,C17H27NO3,293.4,,,,,,,,,synthetic
+enadoline,C24H32N2O3,396.5,0,,0,,1,agonist,,,synthetic
+eptazocine,C15H21NO,231.33,1,antagonist,0,,1,agonist,,,synthetic
+ethoheptazine,C16H23NO2,261.36,1,partial agonist,,,,,,,synthetic
+ethylmethylthiambutene,C15H19NS2,277.5,,,,,,,,,synthetic
+ethylmorphine,C19H23NO3,313.4,1,agonist,,,,,,,semi-synthetic
+etonitazene,C22H28N4O3,396.5,1,agonist,1,agonist,1,partial agonist,,,synthetic
+etorphine,C25H33NO4,411.5,1,agonist,1,agonist,1,agonist,1,agonist,semi-synthetic
+etoxeridine,C18H27NO4,321.4,,,,,,,,,synthetic
+fedotozine,C22H31NO4,373.5,0,,0,,1,agonist,,,synthetic
+fentanyl,C22H28N2O,336.5,1,agonist,1,agonist,1,partial agonist,,,synthetic
+fluradoline,C17H16FNOS,301.4,,,,,,,,,synthetic
+furanylfentanyl,C24H26N2O2,374.5,1,agonist,1,partial agonist,1,partial agonist,,,synthetic
+furethidine,C21H31NO4,361.5,,,,,,,,,synthetic
+gemazocine,C20H29NO,299.4,,,,,,,,,synthetic
+homprenorphine ,"	C28H37NO4",451.6,,,,,,,,,semi-synthetic
+hydrocodone,C18H21NO3,299.4,1,agonist,0,,1,agonist,,,semi-synthetic
+hydromorphinol,C17H21NO4,303.35,,,,,,,,,semi-synthetic
+hydromorphone,C17H19NO3,285.34,1,agonist,1,agonist,1,agonist,,,semi-synthetic
+hydroxypethidine,C15H21NO3,263.33,,,,,,,,,synthetic
+ibazocine,C20H29NO,299.4,,,,,,,,,synthetic
+IQMF-4,,,1,agonist,,,,,,,synthetic
+isobutyrylfentanyl,C23H30N2O,350.5,1,agonist,,,,,,,synthetic
+isofentanyl,C22H28N2O2,336.5,,,,,,,,,synthetic
+isomethadone,C21H27NO,309.4,1,agonist,1,agonist,0,,,,synthetic
+ketazocine,C18H23NO2,285.4,0,,0,,1,agonist,,,synthetic
+ketobemidone,C15H21NO2,247.33,1,agonist,1,agonist,1,agonist,,,synthetic
+ketorfanol,"	C20H25NO2",311.4,,,,,,,,,synthetic
+lefetamine,"	C16H19N",225.33,1,partial agonist,,,,,,,synthetic
+levacetylmethadol,C23H31NO2,353.5,1,agonist,,,,,,,synthetic
+levallorphan,C19H25NO,283.4,1,antagonist,,,1,agonist,,,synthetic
+levomethadone,"	C21H27NO",309.4,1,agonist,1,agonist,1,partial agonist,,,synthetic
+levomethorphan,"	C18H25NO",271.4,1,agonist,1,agonist,1,agonist,,,synthetic
+levomoramide,C25H32N2O2,392.5,,,,,,,,,synthetic
+levophenacylmorphan,C24H27NO2,361.5,,,,,,,,,synthetic
+levorphanol,"	C17H23NO",257.37,1,agonist,1,agonist,1,agonist,,,synthetic
+lofentanil,C25H32N2O3,408.5,1,agonist,0,,0,,,,synthetic
+loperamide,C29H33ClN2O2,477,1,agonist,1,agonist,1,agonist,,,synthetic
+meptazinol,C15H23NO,233.35,1,agonist,,,,,,,synthetic
+metazocine,C15H21NO,231.33,,,,,,,,,synthetic
+metethoheptazine,C17H25NO2,275.4,,,,,,,,,synthetic
+methadone,C21H27NO,309.4,1,agonist,0,,0,,,,synthetic
+metheptazine,"	C16H23NO2",261.36,,,,,,,,,synthetic
+methoxyacetylfentanyl,C22H28N2O2,352.5,1,agonist,0,,0,,,,synthetic
+methyldesorphine,C18H21NO2,283.4,,,,,,,,,semi-synthetic
+methyldihydromorphine,C18H23NO3,301.4,,,,,,,,,semi-synthetic
+methylnaltrexone,C21H26NO4+,356.4,1,antagonist,1,antagonist,1,antagonist,,,synthetic
+metopon,C18H21NO3,299.4,1,agonist,,,,,,,semi-synthetic
+mirfentanil,C22H24N4O2,376.5,1,agonist,0,,0,,,,synthetic
+morpheridine,C20H30N2O3,346.5,,,,,,,,,synthetic
+morphine glucuronide,C17H19NO3,285.34,1,agonist,1,agonist,1,agonist,,,alkaloid
+moxazocine,C18H25NO2,287.4,,,,,,,,,synthetic
+MT-45,"	C24H32N2",348.5,1,agonist,1,agonist,1,agonist,,,synthetic
+myrophine,C38H51NO4,585.8,,,,,,,,,semi-synthetic
+N-methylnorcarfentanil,C17H24N2O3HCl,340.9,,,,,,,,,synthetic
+nalbuphine,C21H27NO4,357.4,1,agonist,1,agonist,1,agonist,,,semi-synthetic
+naldemedine,C32H34N4O6,570.6,1,antagonist,1,antagonist,1,antagonist,,,synthetic
+nalfurafine,C28H32N2O5,476.6,0,,0,,1,agonist,,,synthetic
+nalmefene,"	C21H25NO3",339.4,1,antagonist,1,partial agonist,1,antagonist,,,synthetic
+nalmexone,"	C21H25NO4",355.4,,,,,,,,,semi-synthetic
+nalorphine,C19H21NO3,311.4,1,mixed,0,,1,agonist,,,semi-synthetic
+naloxegol,C34H53NO11,651.8,1,antagonist,0,,0,,,,synthetic
+naloxone,C19H21NO4,327.4,1,antagonist,1,antagonist,1,antagonist,,,semi-synthetic
+naltrexone,C20H23NO4,341.4,1,antagonist,1,antagonist,1,antagonist,,,semi-synthetic
+narceine,C23H27NO8,445.5,,,,,,,,,alkaloid
+nexeridine,C19H29NO2,303.4,,,,,,,,,synthetic
+nicocodine,"	C24H24N2O4",404.5,,,,,,,,,semi-synthetic
+nicodicodine,C24H26N2O4,406.5,,,,,,,,,semi-synthetic
+nicomorphine,C29H25N3O5,495.5,1,agonist,1,agonist,1,agonist,,,semi-synthetic
+noracymethadol,C22H29NO2,339.5,,,,,,,,,synthetic
+norcodeine,C17H19NO3,285.34,1,agonist,0,,0,,,,semi-synthetic
+norlevorphanol,C16H21NO,243.34,,,,,,,,,synthetic
+normethadone,C20H25NO,295.4,1,agonist,,,,,,,synthetic
+normorphine,C16H17NO3,271.31,1,agonist,1,agonist,1,agonist,,,semi-synthetic
+norpipanone,C23H29NO,335.5,,,,,,,,,synthetic
+noscapine,C22H23NO7,413.4,,,,,,,,,alkaloid
+ocfentanil,C22H27FN2O2,370.5,1,agonist,,,,,,,synthetic
+ohmefentanyl,C23H30N2O2,366.5,1,agonist,0,,0,,,,synthetic
+oliceridine,"	C22H30N2O2S",386.6,1,agonist,,,,,,,synthetic
+opium,,,1,agonist,1,agonist,1,agonist,,,alkaloid
+oripavine,C18H19NO3,297.3,,,,,,,,,alkaloid
+orthofluorofentanyl,"	C22H27FN2O",354.5,1,agonist,,,,,,,synthetic
+oxilorphan,C20H27NO2,313.4,1,antagonist,0,,1,agonist,,,synthetic
+oxpheneridine,C22H27NO3,353.5,,,,,,,,,synthetic
+oxycodone,C18H21NO4,315.4,1,agonist,1,agonist,1,agonist,,,semi-synthetic
+oxymorphone,C17H19NO4,301.34,1,agonist,,,,,,,semi-synthetic
+papaveretum,C55H62ClN3O10,960.5,,,,,,,,,alkaloid
+parafluorobutyrylfentanyl,C23H29FN2O,368.5,1,agonist,,,,,,,synthetic
+parafluorofentanyl,C22H27FN2O,354.5,1,agonist,,,,,,,synthetic
+pentamorphone,C22H28N2O3,368.5,,,,,,,,,semi-synthetic
+pentazocine,C19H27NO,285.4,1,partial agonist,1,agonist,1,partial agonist,,,synthetic
+PEPAP,"	C21H25NO2",323.4,1,agonist,,,,,,,synthetic
+pethidine,C15H21NO2,247.33,1,agonist,1,agonist,1,agonist,,,synthetic
+phenadoxone,C23H29NO2,351.5,,,,,,,,,synthetic
+phenampromide,C17H26N2O,274.4,,,,,,,,,synthetic
+phenazocine,C22H27NO,321.5,,,,,,,,,synthetic
+pheneridine,C22H27NO2,337.5,,,,,,,,,synthetic
+phenomorphan,C24H29NO,347.5,,,,,,,,,synthetic
+phenoperidine,"	C23H29NO3",367.5,,,,,,,,,synthetic
+pholcodine,C23H30N2O4,398.5,1,antagonist,1,antagonist,1,antagonist,,,semi-synthetic
+picenadol,C16H25NO,247.38,1,mixed,,,1,mixed,,,synthetic
+piminodine,C23H30N2O2,366.5,1,agonist,,,,,,,synthetic
+pinadoline,C19H19Cl2N3O3,408.3,,,,,,,,,synthetic
+piritramide,C27H34N4O,430.6,1,agonist,,,,,,,synthetic
+prodine,C16H23NO2,261.36,,,,,,,,,synthetic
+proheptazine,C17H25NO2,275.4,,,,,,,,,synthetic
+properidine,C16H23NO2,261.36,,,,,,,,,synthetic
+propiram,C16H25N3O,275.39,1,partial agonist,,,,,,,synthetic
+proxorphan,C19H25NO2,299.4,,,,,1,partial agonist,,,synthetic
+quadazocine,C25H37NO2,383.6,1,antagonist,1,antagonist,1,antagonist,,,synthetic
+R-30490,C24H32N2O2,380.5,1,agonist,0,,0,,,,synthetic
+remifentanil,C20H28N2O5,376.4,1,agonist,1,agonist,1,agonist,,,synthetic
+sameridine,C21H34N2O,330.5,1,partial agonist,,,,,,,synthetic
+semorphone,C19H23NO5,345.4,,,,,,,,,semi-synthetic
+spiradoline,"	C22H30Cl2N2O2",425.4,0,,0,,1,agonist,,,synthetic
+sufentanil,C22H30N2O2S,386.6,1,agonist,1,agonist,1,unknown,,,synthetic
+tapentadol,C14H23NO,221.34,1,agonist,0,,0,,,,synthetic
+tetrahydrofuranylfentanyl,C24H30N2O2,378.5,1,agonist,,,,,,,synthetic
+tetramethylcyclopropylfentanyl,C27H36N2O,404.6,1,agonist,,,,,,,synthetic
+thebacon,C20H23NO4,341.4,,,,,,,,,semi-synthetic
+thebaine,C19H21NO3,311.4,1,agonist,1,agonist,,,,,alkaloid
+thiafentanil,C22H28N2O4S,416.5,1,agonist,,,,,,,synthetic
+thiofentanyl,C22H28N2O3S,400.5,1,agonist,,,,,,,synthetic
+tianeptine,C21H25ClN2O4S,437,1,agonist,,,,,,,synthetic
+tilidine,C17H23NO2,273.37,1,agonist,,,,,,,synthetic
+tonazocine,C23H35NO2,357.5,1,mixed,1,mixed,,,,,synthetic
+tramadol,C16H25NO2,263.37,1,agonist,1,agonist,1,agonist,,,synthetic
+trefentanil,C25H31FN6O2,466.6,1,agonist,,,,,,,synthetic
+trimebutine,C22H29NO5,387.5,1,agonist,1,agonist,1,agonist,,,synthetic
+trimeperidine,"	C17H25NO2",275.4,1,agonist,,,,,,,synthetic
+U-47700,C16H22Cl2N2O,329.3,1,agonist,1,agonist,1,agonist,,,synthetic
+valerylfentanyl ,C24H32N2O,364.5,1,partial agonist,1,antagonist,1,partial agonist,,,synthetic
+veradoline,C20H26N2O2,326.4,,,,,,,,,synthetic
+volazocine,C18H25N,255.4,,,,,,,,,synthetic
+xorphanol,C23H31NO,337.5,1,agonist,1,agonist,1,agonist,,,synthetic

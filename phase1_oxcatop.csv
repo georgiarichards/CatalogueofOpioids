@@ -1,0 +1,238 @@
+﻿drug_name,ATC,ATC_code,ATC_cat,BNF,BNF_code,BNF_cat,guide_to_pharmacol,INCB,Merck_index,Martindale,INN,INN_name,BAN,USAN,IUPAC_name,suffix
+3-methylfentanyl,0,,,0,,,0,1,0,0,0,,,,N-[3-methyl-1-(2-phenylethyl)piperidin-4-yl]-N-phenylpropanamide,anyl
+3-methylthiofentanyl,0,,,0,,,0,1,0,0,0,,,,N-[3-methyl-1-(2-thiophen-2-ylethyl)piperidin-4-yl]-N-phenylpropanamide,anyl
+4-chloroisobutyrfentanyl,0,,,0,,,0,0,0,0,0,,,,2-Methyl-N-(4-chlorophenyl)-N-[1-(1-phenylpropan-2-yl)piperidin-4-yl]propanamide,anyl
+4-fluoroisobutyrfentanyl,0,,,0,,,0,1,0,0,0,,,,N-(4-Fluorophenyl)-N-[1-(2-phenylethyl)-4-piperidinyl]-isobutanamide,anyl
+4-phenylfentanyl,0,,,0,,,0,0,0,0,0,,,,N-Phenyl-N-[4-phenyl-1-(2-phenylethyl)piperidin-4-yl]propanamide,anyl
+6'-guanidinonaltrindole,0,,,0,,,0,0,0,0,0,,,,"2-[(1S,2S,13R,21R)-22-(cyclopropylmethyl)-2,16-dihydroxy-14-oxa-11,22-diazaheptacyclo[13.9.1.01,13.02,21.04,12.05,10.019,25]pentacosa-4(12),5(10),6,8,15,17,19(25)-heptaen-8-yl]guanidine",dole
+acetorphine,0,,,0,,,0,1,0,0,1,acetorphine,acetorphine,-,"[(1R,2S,6R,14R,15R,19R)-19-[(2R)-2-hydroxypentan-2-yl]-15-methoxy-5-methyl-13-oxa-5-azahexacyclo[13.2.2.12,8.01,6.02,14.012,20]icosa-8(20),9,11,16-tetraen-11-yl] acetate",hine 
+acetyldihydrocodeine,1,R05DA12,cough suppressant,0,,,0,1,0,1,0,,,,"[(4R,4aR,7S,7aR,12bS)-9-methoxy-3-methyl-2,4,4a,5,6,7,7a,13-octahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl] acetate",eine
+acetylfentanyl,0,,,0,,,0,1,0,0,0,,,,N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide,anyl
+acetylmethadol,0,,,0,,,0,1,1,0,1,acetylmethadol,acetylmethadol,methadyl acetate,"[6-(dimethylamino)-4,4-diphenylheptan-3-yl] acetate",adol
+acrylfentanyl,0,,,0,,,0,1,0,0,0,,,,N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]prop-2-enamide,anyl
+AH-7921,0,,,0,,,0,1,0,0,0,,,,"3,4-dichloro-N-[[1-(dimethylamino)cyclohexyl]methyl]benzamide",-
+alfentanil,1,N01AH02,anaesthetic,1,1501043A0,15.1.4,1,1,1,1,1,alfentanil,alfentanil,alfentanil hydrochloride,N-[1-[2-(4-ethyl-5-oxotetrazol-1-yl)ethyl]-4-(methoxymethyl)piperidin-4-yl]-N-phenylpropanamide,anyl
+alimadol,0,,,0,,,0,0,0,0,1,alimadol,-,-,"3-methoxy-3,3-diphenyl-N-prop-2-enylpropan-1-amine",adol
+alletorphine,0,,,0,,,0,0,0,0,1,alletorphine,alletorphine,-,"(1R,2S,6R,14R,15R,19R)-19-[(2R)-2-hydroxypentan-2-yl]-15-methoxy-5-prop-2-enyl-13-oxa-5-azahexacyclo[13.2.2.12,8.01,6.02,14.012,20]icosa-8(20),9,11,16-tetraen-11-ol",hine 
+allylprodine,0,,,0,,,0,1,1,0,1,allylprodine,allylprodine,-,(1-methyl-4-phenyl-3-prop-2-enylpiperidin-4-yl) propanoate,dine
+alphacetylmethadol,0,,,0,,,0,1,0,0,1,alphacetylmethadol,alphacetylmethadol,-,"[(3R,6R)-6-(dimethylamino)-4,4-diphenylheptan-3-yl] acetate ",adol
+alphameprodine,0,,,0,,,0,1,0,0,1,alphameprodine,alphameprodine,-,"[(3S,4R)-3-ethyl-1-methyl-4-phenylpiperidin-4-yl] propanoate",dine
+alphamethadol,0,,,0,,,0,1,0,0,1,alphamethadol,alphamethadol,-,"(3R,6R)-6-(dimethylamino)-4,4-diphenylheptan-3-ol",adol
+alphamethylacetylfentanyl,0,,,0,,,0,1,0,0,0,,,,N-phenyl-N-[1-(1-phenylpropan-2-yl)piperidin-4-yl]acetamide,anyl
+alphamethylfentanyl,0,,,0,,,0,1,1,0,0,,,,N-phenyl-N-[1-(1-phenylpropan-2-yl)piperidin-4-yl]propanamide,anyl
+alphamethylthiofentanyl,0,,,0,,,0,1,0,0,0,,,,N-phenyl-N-[1-(1-thiophen-2-ylpropan-2-yl)piperidin-4-yl]propanamide,anyl
+alphaprodine,0,,,0,,,0,1,1,1,1,alphaprodine,alphaprodine,-,"[(3S,4R)-1,3-dimethyl-4-phenylpiperidin-4-yl] propanoate;hydrochloride  ",dine
+alvimopan,1,A06AH02,laxatives,0,,,1,0,1,1,1,alvimopan,alvimopan,alvimopan,"2-[[(2S)-2-benzyl-3-[(3R,4R)-4-(3-hydroxyphenyl)-3,4-dimethylpiperidin-1-yl]propanoyl]amino]acetic acid",opan
+anazocine,0,,,0,,,0,0,0,0,1,anazocine,-,-,9-methoxy-3-methyl-9-phenyl-3-azabicyclo[3.3.1]nonane,cine
+anileridine,1,N01AH05,anaesthetic,0,,,1,1,1,1,1,anileridine,anileridine,-,ethyl 1-[2-(4-aminophenyl)ethyl]-4-phenylpiperidine-4-carboxylate,dine
+apadoline,0,,,0,,,0,0,0,0,1,apadoline,-,-,N-propyl-10-[(2R)-1-pyrrolidin-1-ylpropan-2-yl]phenothiazine-2-carboxamide,line
+asalhydromorphone,0,,,0,,,0,0,0,0,1,asalhydromorphone,-,asalhydromorphone; asalhydromorphone hydrochloride,"[(4R,4aR,7aR,12bS)-9-(2-acetyloxybenzoyl)oxy-3-methyl-2,4,4a,5,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl] 2-acetyloxybenzoate",hone
+asimadoline,0,,,0,,,1,0,1,0,1,asimadoline,-,-,"N-[(1S)-2-[(3S)-3-hydroxypyrrolidin-1-yl]-1-phenylethyl]-N-methyl-2,2-diphenylacetamide",line
+axomadol,0,,,0,,,0,0,0,0,1,axomadol,-,axomadol hydrochloride,"(1R,3R,6R)-6-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexane-1,3-diol",adol
+benzethidine,0,,,0,,,0,1,0,0,1,benzethidine,benzethidine,-,ethyl 4-phenyl-1-(2-phenylmethoxyethyl)piperidine-4-carboxylate,dine
+benzodioxolefentanyl,0,,,0,,,0,0,0,0,0,,,,"N-Phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]-2H-1,3-benzodioxole-5-carboxamide",anyl
+benzoylfentanyl,0,,,0,,,0,0,0,0,0,,,,N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]benzamide,anyl
+benzyhydrocodone,0,,,0,,,0,0,0,0,1,benzyhydrocodone,-,benzyhydrocodone,"[(4R,4aR,7aR,12bS)-9-methoxy-3-methyl-2,4,4a,5,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl] benzoate  ",done
+benzylfentanyl,0,,,0,,,0,0,0,0,0,,,,N-(1-benzylpiperidin-4-yl)-N-phenylpropanamide,anyl
+benzylmorphine,0,,,0,,,0,1,1,0,0,,,,"(4R,4aR,7S,7aR,12bS)-3-methyl-9-phenylmethoxy-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol",hine 
+betacetylmethadol,0,,,0,,,0,1,0,0,1,betacetylmethadol,,,"[(3S,6R)-6-(dimethylamino)-4,4-diphenylheptan-3-yl] acetate",adol
+betahydroxyfentanyl,0,,,0,,,0,1,0,0,0,,,,N-[1-(2-hydroxy-2-phenylethyl)piperidin-4-yl]-N-phenylpropanamide,anyl
+betahydroxythiofentanyl,0,,,0,,,0,0,0,0,0,,,,N-{1-[2-Hydroxy-2-(thiophen-2-yl)ethyl]piperidin-4-yl}-N-phenylpropanamide,anyl
+betameprodine,0,,,0,,,0,1,0,0,1,betameprodine,betameprodine,-,(3-ethyl-1-methyl-4-phenylpiperidin-4-yl) propanoate,dine
+betamethadol,0,,,0,,,0,1,0,0,1,betamethadol,betamethadol,-,"(3S,6R)-6-(dimethylamino)-4,4-diphenylheptan-3-ol",adol
+betamethylfentanyl,0,,,0,,,0,0,0,0,0,,,,N-Phenyl-N-[1-(2-phenylpropyl)piperidin-4-yl]propanamide,anyl
+betaprodine,0,,,0,,,0,1,0,0,1,betaprodine,betaprodine,-,"[(3R,4R)-1,3-dimethyl-4-phenylpiperidin-4-yl] propanoate",dine
+bezitramide,1,N02AC05,analgesics,0,,,0,1,1,1,1,bezitramide,bezitramide,-,"4-[4-(2-oxo-3-propanoylbenzimidazol-1-yl)piperidin-1-yl]-2,2-diphenylbutanenitrile",mide
+bremazocine,0,,,0,,,1,0,0,0,1,bremazocine,-,-,"(1S,9R)-1-ethyl-10-[(1-hydroxycyclopropyl)methyl]-13,13-dimethyl-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol",cine
+brifentanil,0,,,0,,,0,0,0,0,1,brifentanil,-,brifentanil hydrochloride,"N-[(3R,4S)-1-[2-(4-ethyl-5-oxotetrazol-1-yl)ethyl]-3-methylpiperidin-4-yl]-N-(2-fluorophenyl)-2-methoxyacetamide",anyl
+bromadoline,0,,,0,,,0,0,0,0,1,bromadoline,-,bromadoline maleate,"4-bromo-N-[(1S,2S)-2-(dimethylamino)cyclohexyl]benzamide",line
+brorphine,0,,,0,,,0,0,0,0,0,,,,"1-{1-[1-(4-bromophenyl)ethyl]piperidin-4-yl}-1,3-dihydro-2H-benzimidazol-2-one",hine 
+BU-08028,0,,,0,,,1,0,0,0,0,,,,"(1S,2S,6R,14R,15R,16R)-5-(cyclopropylmethyl)-16-[(2S)-2-hydroxy-3,3-dimethylpentan-2-yl]-15-methoxy-13-oxa-5-azahexacyclo[13.2.2.12,8.01,6.02,14.012,20]icosa-8(20),9,11-trien-11-ol  ",-
+buprenorphine,1,N02AE01; N07BC01; N07BC51,analgesics; other NS drugs,1,0407020B0; 0410030B0; 0410030A0,4.7.2; 4.10.3 ,1,0,1,1,1,buprenorphine,buprenorphine,buprenorphine hydrochloride,"(1S,2S,6R,14R,15R,16R)-5-(cyclopropylmethyl)-16-[(2S)-2-hydroxy-3,3-dimethylbutan-2-yl]-15-methoxy-13-oxa-5-azahexacyclo[13.2.2.12,8.01,6.02,14.012,20]icosa-8(20),9,11-trien-11-ol",hine 
+butinazocine,0,,,0,,,0,0,0,0,1,butinazocine,-,-,"10-but-3-ynyl-13,13-dimethyl-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-triene-1,4-diol",cine
+butorphanol,1,N02AF01,analgesics,0,,,1,0,1,1,1,butorphanol,butorphanol,butorphanol tartrate,"(1S,9R,10S)-17-(cyclobutylmethyl)-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene-4,10-diol",anol
+butyrfentanyl,0,,,0,,,0,1,0,0,0,,,,N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]butanamide,anyl
+carbazocine,0,,,0,,,0,0,0,0,1,carbazocine,-,-,"20-(cyclopropylmethyl)-3,20-diazapentacyclo[10.5.3.01,13.02,10.04,9]icosa-2(10),4,6,8-tetraene",cine
+carfentanil,0,,,0,,,1,1,0,1,1,carfentanil,-,carfentanil citrate,methyl 1-(2-phenylethyl)-4-(N-propanoylanilino)piperidine-4-carboxylate,anyl
+carperidine,0,,,0,,,0,0,0,0,1,carperidine,,,ethyl 1-(3-amino-3-oxopropyl)-4-phenylpiperidine-4-carboxylate,dine
+ciramadol,0,,,0,,,0,0,1,1,1,ciramadol,-,ciramadol; ciramadol hydrochloride,"3-[(R)-dimethylamino-[(1R,2R)-2-hydroxycyclohexyl]methyl]phenol",adol
+clonitazene,0,,,0,,,0,1,1,1,1,clonitazene,clonitazene,-,"2-[2-[(4-chlorophenyl)methyl]-5-nitrobenzimidazol-1-yl]-N,N-diethylethanamine",zene
+codeine,1,R05DA04; N02AJ06; N02AJ07; N02AJ08; N02AJ09; N02AA59 ; N02AA79,cough suppressant; analgesics,1,0407020C0; 0407010F0; 0407010M0; 0309010C0,4.7.1; 4.7.2,1,1,1,1,0,,,,"(4R,4aR,7S,7aR,12bS)-9-methoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol  ",eine
+codoxime,0,,,0,,,0,1,0,0,1,codoxime,-,codoxime,"2-[(Z)-[(4R,4aR,7aR,12bS)-9-methoxy-3-methyl-1,2,4,4a,5,6,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ylidene]amino]oxyacetic acid",xime
+cogazocine,0,,,0,,,0,0,0,0,1,cogazocine,-,-,"10-(cyclobutylmethyl)-1-ethyl-13,13-dimethyl-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol",cine
+crotonylfentanyl,0,,,0,,,0,1,0,0,0,,,,(2E)-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]but-2-enamide.,anyl
+cyclazocine,0,,,0,,,1,0,1,0,1,cyclazocine,-,cyclazocine,"10-(cyclopropylmethyl)-1,13-dimethyl-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol",cine
+cyclopentylfentanyl,0,,,0,,,0,0,0,0,0,,,,N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]cyclopentanecarboxamide,anyl
+cyclopropylfentanyl,0,,,0,,,0,1,0,0,0,,,,N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]cyclopropanecarboxamide,anyl
+cyprenorphine,0,,,0,,,0,0,1,0,1,cyprenorphine,cyprenorphine,-,"(1R,2S,6R,14R,15R,19R)-5-(cyclopropylmethyl)-19-(2-hydroxypropan-2-yl)-15-methoxy-13-oxa-5-azahexacyclo[13.2.2.12,8.01,6.02,14.012,20]icosa-8(20),9,11,16-tetraen-11-ol",hine 
+desmethylmoramide,0,,,0,,,0,0,0,0,1,desmethylmoramide,-,-,"4-morpholin-4-yl-2,2-diphenyl-1-pyrrolidin-1-ylbutan-1-one",mide
+desmethylprodine,0,,,0,,,0,1,0,0,0,,,,(1-methyl-4-phenylpiperidin-4-yl) propanoate,dine
+desmetramadol,0,,,0,,,0,0,0,0,1,desmetramadol,-,-,"3-[(1R,2R)-2-[(dimethylamino)methyl]-1-hydroxycyclohexyl]phenol",adol
+desomorphine,0,,,0,,,0,1,1,0,1,desomorphine,desomorphine,-,"(4R,4aR,7aS,12bS)-3-methyl-2,4,4a,5,6,7,7a,13-octahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-9-ol",hine 
+dextromethorphan,1,R05DA09; N07XX59,cough suppressant; other NS drugs,1,0309010L0; 0309020R0; 0309020AF,3.9.1; 3.9.2,1,0,1,1,1,dextromethorphan,dextromethorphan,dextromethorphan polistirex,"(1S,9S,10S)-4-methoxy-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene",phan
+dextromoramide,1,N02AC01,analgesics,1,0407020D0,4.7.2,0,1,1,1,1,dextromoramide,dextromoramide,-,"(3S)-3-methyl-4-morpholin-4-yl-2,2-diphenyl-1-pyrrolidin-1-ylbutan-1-one",mide
+dextropropoxyphene,1,N02AC04; N02AC54; N02AC74,analgesics,0,,,1,1,0,0,1,dextropropoxyphene,dextropropoxyphene,propoxyphene hydrochloride; propoxyphene napsylate,"[(2S,3R)-4-(dimethylamino)-3-methyl-1,2-diphenylbutan-2-yl] propanoate",hene
+dezocine,1,N02AX03,analgesics,0,,,0,0,1,1,1,dezocine,-,dezocine,"(1R,9S,15S)-15-amino-1-methyltricyclo[7.5.1.02,7]pentadeca-2(7),3,5-trien-4-ol",cine
+diamorphine,1,N07BC06,other NS drugs,1,0407020K0; 0309010N0,4.7.2; 3.9.1,1,1,1,1,0,,,,"[(4R,4aR,7S,7aR,12bS)-9-acetyloxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl] acetate",hine 
+diampromide,0,,,0,,,0,1,1,0,1,diampromide,diampromide,-,diphenylpropylamine,mide
+dibenzoylmorphine,0,,,0,,,0,0,0,0,0,,,,"(9-benzoyloxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl) benzoate",hine 
+diethylthiambutene,0,,,0,,,0,1,0,0,1,diethylthiambutene,diethylthiambutene,-,"N,N-diethyl-4,4-dithiophen-2-ylbut-3-en-2-amine",tene
+difenoxin,1,A07DA04,antidiarrheal,0,,,1,1,1,0,1,difenoxin,difenoxin,difenoxin,"1-(3-cyano-3,3-diphenylpropyl)-4-phenylpiperidine-4-carboxylic acid",oxin
+dihydrocodeine,1,N02AA08; N02AJ02; N02AJ03; N02AJ01; N02AA58,analgesics,1,0407010N0; 0407020G0,4.7.1; 4.7.2,1,1,1,1,1,dihydrocodeine,-,-,"(4R,4aR,7S,7aR,12bS)-9-methoxy-3-methyl-2,4,4a,5,6,7,7a,13-octahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol",eine
+dihydroetorphine,0,,,0,,,0,1,0,0,0,,,,"(1S,2S,6R,14R,15R,16R)-16-[(2R)-2-hydroxypentan-2-yl]-15-methoxy-5-methyl-13-oxa-5-azahexacyclo[13.2.2.12,8.01,6.02,14.012,20]icosa-8(20),9,11-trien-11-ol",hine 
+dihydromorphine,0,,,0,,,1,1,1,0,0,,,,"(4R,4aR,7S,7aR,12bS)-3-methyl-2,4,4a,5,6,7,7a,13-octahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol",hine 
+dimemorfan,1,R05DA11,cough suppressant,0,,,0,0,1,0,1,dimemorfan,-,-,"(1S,9S,10S)-4,17-dimethyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene",phan
+dimenoxadol,0,,,0,,,0,1,1,0,1,dimenoxadol,dimenoxadol,-,"2-(dimethylamino)ethyl 2-ethoxy-2,2-diphenylacetate",adol
+dimepheptanol,0,,,0,,,0,1,1,0,1,dimepheptanol,dimepheptanol,-,"6-(dimethylamino)-4,4-diphenylheptan-3-ol",anol
+dimethylthiambutene,0,,,0,,,0,1,1,0,1,dimethylthiambutene,dimethylthiambutene,-,"N,N-dimethyl-4,4-dithiophen-2-ylbut-3-en-2-amine",tene
+dinalbuphine,0,,,0,,,0,0,0,0,1,dinalbuphine sebacate,-,-,"bis[(4R,4aS,7S,7aR,12bS)-3-(cyclobutylmethyl)-4a,7-dihydroxy-1,2,4,5,6,7,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-9-yl] decanedioate",phine 
+dioxaphetyl,0,,,0,,,0,1,1,0,1,dioxaphetyl butyrate,dioxaphetyl butyrate,-,"ethyl 4-morpholin-4-yl-2,2-diphenylbutanoate",etyl
+diphenoxylate,1,A07DA01,antidiarrheal,1,0104020H0,1.4.2,1,1,1,1,1,diphenoxylate,diphenoxylate,-,"ethyl 1-(3-cyano-3,3-diphenylpropyl)-4-phenylpiperidine-4-carboxylate",late
+dipipanone,0,,,1,0407020H0,4.7.2,1,1,1,1,1,dipipanone,dipipanone,-,"4,4-diphenyl-6-piperidin-1-ylheptan-3-one",none
+diprenorphine,0,,,0,,,1,0,1,1,1,diprenorphine,diprenorphine,-,"(1S,2S,6R,14R,15R,16R)-5-(cyclopropylmethyl)-16-(2-hydroxypropan-2-yl)-15-methoxy-13-oxa-5-azahexacyclo[13.2.2.12,8.01,6.02,14.012,20]icosa-8(20),9,11-trien-11-ol",hine 
+drotebanol,0,,,0,,,0,1,1,1,1,drotebanol,drotebanol,-,"(1R,9R,10S,13R)-3,4-dimethoxy-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene-10,13-diol",anol
+eluxadoline,1,A07DA06,antidiarrheal,1,0102000AK,1.2.0,1,0,1,0,1,eluxadoline,eluxadoline,eluxadoline,"5-[[[(2S)-2-amino-3-(4-carbamoyl-2,6-dimethylphenyl)propanoyl]-[(1S)-1-(5-phenyl-1H-imidazol-2-yl)ethyl]amino]methyl]-2-methoxybenzoic acid",line
+embutramide,0,,,0,,,0,0,1,0,1,embutramide,embutramide,embutramide,N-[2-ethyl-2-(3-methoxyphenyl)butyl]-4-hydroxybutanamide,mide
+enadoline,0,,,0,,,1,0,0,1,1,enadoline,-,enadoline hydrochloride,"2-(1-benzofuran-4-yl)-N-methyl-N-[(5R,7S,8S)-7-pyrrolidin-1-yl-1-oxaspiro[4.5]decan-8-yl]acetamide",line
+eptazocine,0,,,0,,,0,0,1,0,1,eptazocine,-,-,"(1S,9S)-1,11-dimethyl-11-azatricyclo[7.4.1.02,7]tetradeca-2(7),3,5-trien-4-ol",cine
+ethoheptazine,0,,,0,,,0,0,1,1,1,ethoheptazine,ethoheptazine,-,ethyl 1-methyl-4-phenylazepane-4-carboxylate,zine
+ethylmethylthiambutene,0,,,0,,,0,1,1,1,1,ethylmethylthiambutene,ethylmethylthiambutene,-,"N-ethyl-N-methyl-4,4-dithiophen-2-ylbut-3-en-2-amine",tene
+ethylmorphine,1,R05DA01; S01XA06,cough suppressant; opthalmologicals,0,,,0,1,1,1,0,,,,"(4R,4aR,7S,7aR,12bS)-9-ethoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol",hine 
+etonitazene,0,,,0,,,1,1,1,0,1,etonitazene,etonitazene,-,"2-[2-[(4-ethoxyphenyl)methyl]-5-nitrobenzimidazol-1-yl]-N,N-diethylethanamine",zene
+etorphine,0,,,0,,,1,1,1,1,1,etorphine,etorphine,-,"(1R,2S,6R)-19-(2-hydroxypentan-2-yl)-15-methoxy-5-methyl-13-oxa-5-azahexacyclo[13.2.2.12,8.01,6.02,14.012,20]icosa-8(20),9,11,16-tetraen-11-ol",hine 
+etoxeridine,0,,,0,,,0,1,0,0,1,etoxeridine,etoxeridine,-,ethyl 1-[2-(2-hydroxyethoxy)ethyl]-4-phenylpiperidine-4-carboxylate,dine
+fedotozine,0,,,0,,,0,0,1,1,1,fedotozine,-,-,"(2R)-N,N-dimethyl-2-phenyl-1-[(3,4,5-trimethoxyphenyl)methoxy]butan-2-amine",zine
+fentanyl,1,N01AH01; N02AB03; N01AH51,analgesics; anaesthetics,1,0407020A0; 1501043F0; 1502010Z0,4.7.2; 15.1.4; 15.2.1,1,1,1,1,1,fentanyl,fentanyl,fentanyl citrate,N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide,anyl
+fluradoline,0,,,0,,,0,0,0,0,1,fluradoline,-,fluradoline hydrochloride,2-(3-fluorobenzo[b][1]benzoxepin-5-yl)sulfanyl-N-methylethanamine ,line
+furanylfentanyl,0,,,0,,,0,1,0,0,0,,,,N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]furan-2-carboxamide,anyl
+furethidine,0,,,0,,,0,1,1,0,1,furethidine,furethidine,-,ethyl 1-[2-(oxolan-2-ylmethoxy)ethyl]-4-phenylpiperidine-4-carboxylate,dine
+gemazocine,0,,,0,,,0,0,0,0,1,gemazocine,-,-,"10-(cyclopropylmethyl)-1-ethyl-13,13-dimethyl-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol",cine
+homprenorphine ,0,,,0,,,0,0,0,0,1,homprenorphine ,homprenorphine,-,"2-[5-(cyclopropylmethyl)-11,15-dimethoxy-13-oxa-5-azahexacyclo[13.2.2.12,8.01,6.02,14.012,20]icosa-8(20),9,11,18-tetraen-16-yl]butan-2-ol",hine 
+hydrocodone,1,R05DA03,cough suppressant,0,,,1,1,1,1,1,hydrocodone,hydrocodone,hydrocodone bitartrate; hydrocodone polistirex,"(4R,4aR,7aR,12bS)-9-methoxy-3-methyl-1,2,4,4a,5,6,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",done
+hydromorphinol,0,,,0,,,0,1,0,0,1,hydromorphinol,hydromorphinol,-,"(4R,4aS,7S,7aR,12bS)-3-methyl-1,2,4,5,6,7,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinoline-4a,7,9-triol",inol
+hydromorphone,1,N02AA03; N02AG04; N02AA53,analgesics,1,040702050,4.7.2,1,1,1,1,1,hydromorphone,hydromorphone,-,"(4R,4aR,7aR,12bS)-9-hydroxy-3-methyl-1,2,4,4a,5,6,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",hone
+hydroxypethidine,0,,,0,,,0,1,1,0,1,hydroxypethidine,hydroxypethidine,-,ethyl 4-(3-hydroxyphenyl)-1-methylpiperidine-4-carboxylate,dine
+ibazocine,0,,,0,,,0,0,0,0,1,ibazocine,-,ibazocine,"1,13,13-trimethyl-10-(3-methylbut-2-enyl)-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol",cine
+IQMF-4,0,,,0,,,0,0,0,0,0,,,,N-[1-phenylpyrazol-3-yl]-N-[1-(2-phenethyl)-4-piperidyl] propenamide,-
+isobutyrylfentanyl,0,,,0,,,0,0,0,0,0,,,,2-methyl-N-phenyl-N-[1-(1-phenylpropan-2-yl)piperidin-4-yl]propanamide,anyl
+isofentanyl,0,,,0,,,0,0,0,0,0,,,,N-(1-Benzyl-3-methylpiperidin-4-yl)-N-phenylpropanamide,anyl
+isomethadone,0,,,0,,,0,1,1,0,1,isomethadone,isomethadone,-,"6-(dimethylamino)-5-methyl-4,4-diphenylhexan-3-one",done
+ketazocine,0,,,0,,,0,0,0,0,1,ketazocine,-,ketazocine,"(1R,9S,13R)-10-(cyclopropylmethyl)-4-hydroxy-1,13-dimethyl-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-8-one",cine
+ketobemidone,1,N02AB01; N02AG02,analgesics,0,,,0,1,1,1,1,ketobemidone,ketobemidone,-,1-[4-(3-hydroxyphenyl)-1-methylpiperidin-4-yl]propan-1-one,done
+ketorfanol,0,,,0,,,0,0,1,0,1,ketorfanol,-,-,"(1S,9R,10R)-17-(cyclopropylmethyl)-3-hydroxy-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-13-one",anol
+lefetamine,0,,,0,,,0,0,1,0,1,lefetamine,-,-,"(1R)-N,N-dimethyl-1,2-diphenylethanamine",mine
+levacetylmethadol,1,N07BC03,other NS drugs,0,,,1,0,1,1,1,levacetylmethadol,-,levomethadyl acetate; lemomethadyl acetate hydrochloride ,"[(3S,6S)-6-(dimethylamino)-4,4-diphenylheptan-3-yl] acetate",adol
+levallorphan,0,,,0,,,1,0,1,1,1,levallorphan,levallorphan,-,"(1R,9R,10R)-17-prop-2-enyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol",phan
+levomethadone,1,N07BC05,other NS drugs,0,,,1,0,0,1,1,levomethadone,-,-,"(6R)-6-(dimethylamino)-4,4-diphenylheptan-3-one",done
+levomethorphan,0,,,0,,,0,1,1,0,1,levomethorphan,levomethorphan,-,"(1R,9R,10R)-4-methoxy-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene",phan
+levomoramide,0,,,0,,,0,1,0,0,1,levomoramide,levomoramide,-,"(3R)-3-methyl-4-morpholin-4-yl-2,2-diphenyl-1-pyrrolidin-1-ylbutan-1-one",mide
+levophenacylmorphan,0,,,0,,,0,1,0,0,1,levophenacylmorphan,levophenacylmorphan,-,"2-[(1R,9R,10R)-4-hydroxy-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-17-yl]-1-phenylethanone",phan
+levorphanol,0,,,0,,,1,1,1,1,1,levorphanol,levorphanol,-,"(1R,9R,10R)-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol",anol
+lofentanil,0,,,0,,,0,0,1,0,1,lofentanil,lofentanil,lofentanil oxalate,"methyl (3R,4S)-3-methyl-1-(2-phenylethyl)-4-(N-propanoylanilino)piperidine-4-carboxylate",anyl
+loperamide,1,"A07DA03; A07DA05, A07DA53",antidiarrheal,1,0104020L0; 0104020P0,1.4.2,1,0,1,0,1,loperamide,loperamide,loperamide; loperamide hydrochloride,"4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-N,N-dimethyl-2,2-diphenylbutanamide",mide
+meptazinol,1,N02AX05,analgesics,1,0407020L0,4.7.2,1,0,1,1,1,meptazinol,meptazinol,meptazinol hydrochloride,3-(3-ethyl-1-methylazepan-3-yl)phenol,inol
+metazocine,0,,,0,,,0,1,1,0,1,metazocine,metazocine,-,"1,10,13-trimethyl-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol",cine
+metethoheptazine,0,,,0,,,0,0,0,0,1,metethoheptazine,-,-,"ethyl 1,3-dimethyl-4-phenylazepane-4-carboxylate",zine
+methadone,1,N07BC02; N02AC52,analgesics; other NS drugs,1,0407020M0; 0410030C0; 0309010S0,4.7.2; 4.10.3; 3.9.1,1,1,1,1,1,methadone,methadone,-,"6-(dimethylamino)-4,4-diphenylheptan-3-one",done
+metheptazine,0,,,0,,,0,0,0,0,1,metheptazine,-,-,"methyl 1,2-dimethyl-4-phenylazepane-4-carboxylate",zine
+methoxyacetylfentanyl,0,,,0,,,0,1,0,0,0,,,,2-methoxy-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide,anyl
+methyldesorphine,0,,,0,,,0,1,0,0,1,methyldesorphine,methyldesorphine,-,"(4R,4aR,7aS,12bS)-3,7-dimethyl-2,4,4a,5,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-9-ol",hine 
+methyldihydromorphine,0,,,0,,,0,1,0,0,1,methyldihydromorphine,-,-,"(4R,4aR,7S,7aR,12bS)-3,7-dimethyl-1,2,4,4a,5,6,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol",hine 
+methylnaltrexone,1,A06AH01,anti-constipation,1,0106060A0,1.6.6,1,0,1,1,1,methylnaltrexone bromide,methylnaltrexone bromide,methylnaltrexone bromide,"(4R,4aS,7aR,12bS)-3-(cyclopropylmethyl)-4a,9-dihydroxy-3-methyl-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-3-ium-7-one",xone
+metopon,0,,,0,,,0,1,1,0,1,metopon,metopon,-,"(4R,4aR,7aR,12bS)-9-hydroxy-3,7a-dimethyl-2,4,4a,5,6,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",opon
+mirfentanil,0,,,0,,,0,0,0,0,1,mirfentanil,-,mirfentanil hydrochloride,N-[1-(2-phenylethyl)piperidin-4-yl]-N-pyrazin-2-ylfuran-2-carboxamide,anyl
+morpheridine,0,,,0,,,0,1,1,0,1,morpheridine,morpheridine,-,ethyl 1-(2-morpholin-4-ylethyl)-4-phenylpiperidine-4-carboxylate,dine
+morphine glucuronide,1,N02AA01; N02AG01; A07DA52; NO2AA5; R05DA05,analgesics; cough suppressant; antidiarrheals,1,0407020P0; 0407020Q0; 040702020; 0104020N0,4.7.2; 1.4.2,1,1,1,1,1,morphine glucuronide,-,-,"(4R,4aR,7S,7aR,12bS)-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol",hine 
+moxazocine,0,,,0,,,0,0,0,0,1,moxazocine,-,moxazocine,"(1S,9R,13R)-10-(cyclopropylmethyl)-13-methoxy-1-methyl-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol",cine
+MT-45,0,,,0,,,1,1,0,0,0,,,,"1-cyclohexyl-4-(1,2-diphenylethyl)piperazine",-
+myrophine,0,,,0,,,0,1,1,0,1,myrophine,myrophine,-,"[(4R,4aR,7S,7aR,12bS)-3-methyl-9-phenylmethoxy-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl] tetradecanoate",hine 
+N-methylnorcarfentanil,0,,,0,,,0,0,0,0,0,,,,methyl 1-methyl-4-(N-phenylpropanamido)piperidine-4-carboxylate,anyl
+nalbuphine,1,N02AF02,analgesics,1,0407020Y0,4.7.2,1,0,1,1,1,nalbuphine,-,nalbuphine hydrochloride,"(4R,4aS,7S,7aR,12bS)-3-(cyclobutylmethyl)-1,2,4,5,6,7,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinoline-4a,7,9-triol",hine 
+naldemedine,1,A06AH05,anti-constipation,1,0106060C0AAAAAA,1.6.6,1,0,1,1,1,naldemedine,-,naldemedine,"(4R,4aS,7aR,12bS)-3-(cyclopropylmethyl)-4a,7,9-trihydroxy-N-[2-(3-phenyl-1,2,4-oxadiazol-5-yl)propan-2-yl]-1,2,4,5,7a,13-hexahydro-4,12-methanobenzofuro[3,2-e]isoquinoline-6-carboxamide",dine
+nalfurafine,1,V03AX02,other therapeutic drugs,0,,,1,0,1,0,1,nalfurafine,-,-,"(E)-N-[(4R,4aS,7R,7aR,12bS)-3-(cyclopropylmethyl)-4a,9-dihydroxy-1,2,4,5,6,7,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl]-3-(furan-3-yl)-N-methylprop-2-enamide",fine
+nalmefene,1,N07BB05,other NS drugs,1,0410010D0,4.10.1,1,0,1,1,1,nalmefene,nalmefene,nalmefene,"(4R,4aS,7aS,12bS)-3-(cyclopropylmethyl)-7-methylidene-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-4a,9-diol",fene
+nalmexone,0,,,0,,,0,0,0,0,1,nalmexone,-, nalmexone hydrochloride,"(4R,4aS,7aR,12bS)-4a,9-dihydroxy-3-(3-methylbut-2-enyl)-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",xone
+nalorphine,1,V03AB02,other therapeutic products,0,,,1,0,1,1,1,nalorphine,nalorphine,-,"(4R,4aR,7S,7aR,12bS)-3-prop-2-enyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol",hine 
+naloxegol,1,A06AH03,anti-constipation,1,0106060B0,1.6.6,1,0,1,1,1,naloxegol,naloxegol,naloxegol,"(4R,4aS,7S,7aR,12bS)-7-[2-[2-[2-[2-[2-[2-(2-methoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]-3-prop-2-enyl-1,2,4,5,6,7,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinoline-4a,9-diol",egol
+naloxone,1,A06AH04; V03AB15; N02AA55; N02AA53,anti-constipation; analgesics; other therapeutic products,1,0410030B0; 0407020AF; 1501070G0; 1902070Q0,4.10.3; 4.7.2; 15.1.7; 19.2.7,1,0,1,1,1,naloxone,naloxone,naloxone hydrochloride,"(4R,4aS,7aR,12bS)-4a,9-dihydroxy-3-prop-2-enyl-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",xone
+naltrexone,1,N07BB04; N02AA56; A08AA62,other NS drugs; analgesics; antiobesity,1,0410030E0; 0405020U0,4.10.3; 4.5.2,1,0,1,1,1,naltrexone,naltrexone,naltrexone; naltrexone hydroxhloride,"(4R,4aS,7aR,12bS)-3-(cyclopropylmethyl)-4a,9-dihydroxy-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",xone
+narceine,0,,,0,,,0,0,1,1,0,,,,"6-[2-[6-[2-(dimethylamino)ethyl]-4-methoxy-1,3-benzodioxol-5-yl]acetyl]-2,3-dimethoxybenzoic acid",eine
+nexeridine,0,,,0,,,0,0,0,0,1,nexeridine,-,nexeridine hydrochloride,[1-[1-(dimethylamino)propan-2-yl]-2-phenylcyclohexyl] acetate,dine
+nicocodine,0,,,0,,,0,1,0,1,1,nicocodine,nicocodine,-,"[(4R,4aR,7S,7aR,12bS)-9-methoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl] pyridine-3-carboxylate",dine
+nicodicodine,0,,,0,,,0,1,0,0,1,nicodicodine,nicodicodine,-,"[(4R,4aR,7S,7aR,12bS)-9-methoxy-3-methyl-2,4,4a,5,6,7,7a,13-octahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl] pyridine-3-carboxylate",dine
+nicomorphine,1,N02AA04,analgesics,0,,,0,1,1,1,1,nicomorphine,nicomorphine,-,"[(4R,4aR,7S,7aR,12bS)-3-methyl-9-(pyridine-3-carbonyloxy)-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl] pyridine-3-carboxylate",hine 
+noracymethadol,0,,,0,,,0,1,1,0,1,noracymethadol,noracymethadol,noracymethadol hydrochloride,"[6-(methylamino)-4,4-diphenylheptan-3-yl] acetate",adol
+norcodeine,0,,,0,,,0,1,1,0,1,norcodeine,norcodeine,-,"(4R,4aR,7S,7aR,12bS)-9-methoxy-1,2,3,4,4a,7,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol",eine
+norlevorphanol,0,,,0,,,0,1,1,0,1,norlevorphanol,norlevorphanol,-,"17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol",anol
+normethadone,1,R05DA06,cough suppressant,0,,,0,1,1,0,1,normethadone,normethadone,-,"6-(dimethylamino)-4,4-diphenylhexan-3-one",done
+normorphine,0,,,0,,,1,1,1,0,1,normorphine,normorphine,-,"(4R,4aR,7S,7aR,12bS)-1,2,3,4,4a,7,7a,13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol",hine 
+norpipanone,0,,,0,,,0,1,1,0,1,norpipanone,norpipanone,-,"4,4-diphenyl-6-piperidin-1-ylhexan-3-one",none
+noscapine,1,R05DA07,cough suppressant,0,,,1,0,1,0,1,noscapine,noscapine,-,"(3S)-6,7-dimethoxy-3-[(5R)-4-methoxy-6-methyl-7,8-dihydro-5H-[1,3]dioxolo[4,5-g]isoquinolin-5-yl]-3H-2-benzofuran-1-one",pine
+ocfentanil,0,,,0,,,0,1,0,0,1,ocfentanil,-,ocfentanil hydrochloride,N-(2-fluorophenyl)-2-methoxy-N-[1-(2-phenylethyl)piperidin-4-yl]acetamide,anyl
+ohmefentanyl,0,,,0,,,0,1,0,0,0,,,,N-[1-(2-hydroxy-2-phenylethyl)-3-methylpiperidin-4-yl]-N-phenylpropanamide,anyl
+oliceridine,0,,,0,,,1,0,0,0,1,oliceridine,-,oliceridine,N-[(3-methoxythiophen-2-yl)methyl]-2-[(9R)-9-pyridin-2-yl-6-oxaspiro[4.5]decan-9-yl]ethanamine,dine
+opium,1,A07DA02; R05DA20; N02AA02;R05DA05; R05FA02; R05FA01,antipropulsives; analgesics; cough suppressants,1,0407020W0; 0104020N0,4.7.2; 1.4.2,0,1,1,1,0,,,,,pium
+oripavine,1,N02AE,analgesics,0,,,0,1,1,0,0,,,,"(4R,7aR,12bS)-7-methoxy-3-methyl-2,4,7a,13-tetrahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-9-ol",vine
+orthofluorofentanyl,0,,,0,,,0,1,0,0,0,,,,N-(2-fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide,anyl
+oxilorphan,0,,,0,,,0,0,0,0,1,oxilorphan,-,oxilorphan,"(1S,9R,10S)-17-(cyclopropylmethyl)-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-triene-4,10-diol",phan
+oxpheneridine,0,,,0,,,0,0,0,0,1,oxpheneridine,-,-,ethyl 1-(2-hydroxy-2-phenylethyl)-4-phenylpiperidine-4-carboxylate,dine
+oxycodone,1,N02AA05; N02AJ18; N02AJ19; N02AA55; N02AA56; N02AJ17,analgesics,1,0407020AF; 0407020AD,4.7.2,1,1,1,1,1,oxycodone,oxycodone,oxycodone,"(4R,4aS,7aR,12bS)-4a-hydroxy-9-methoxy-3-methyl-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",done
+oxymorphone,0,,,0,,,1,1,1,1,1,oxymorphone,oxymorphone,-,"(4R,4aS,7aR,12bS)-4a,9-dihydroxy-3-methyl-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",hone
+papaveretum,1,N02AA10,analgesics,1,0407020AB; 04070010A0,4.7.2; 4.7.1,0,0,1,1,0,,,,"(4R,4aR,7S,12bS)-9-methoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol;(4R,4aR,7S,12bS)-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol;1-[(3,4-dimethoxyphenyl)methyl]-6,7-dimethoxyisoquinoline;hydrochloride  ",etum
+parafluorobutyrylfentanyl,0,,,0,,,0,1,0,0,0,,,,N-(4-Fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]butanamide,anyl
+parafluorofentanyl,0,,,0,,,0,1,0,0,0,,,,N-(4-fluorophenyl)-N-[1-(2-phenylethyl)piperidin-4-yl]propanamide,anyl
+pentamorphone,0,,,0,,,0,0,0,1,1,pentamorphone,-,pentamorphone,"(4R,4aS,7aR,12bR)-9-hydroxy-3-methyl-4a-(pentylamino)-2,4,7a,13-tetrahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",hone
+pentazocine,1,N02AD01,analgesics,1,0407020T0; 0407020U0,4.7.2,1,0,1,1,1,pentazocine,pentazocine,pentazocine; pentazocine hydrochloride; pentazocine lactate,"(1R,9R,13R)-1,13-dimethyl-10-(3-methylbut-2-enyl)-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol",cine
+PEPAP,0,,,0,,,0,1,0,0,0,,,,[4-phenyl-1-(2-phenylethyl)piperidin-4-yl] acetate,-
+pethidine,1,N02AB02; N02AG03; N02AB52; N02AB72,analgesics,1,0407020V0,4.7.2,1,1,1,1,1,pethidine,-,-,ethyl 1-methyl-4-phenylpiperidine-4-carboxylate,dine
+phenadoxone,0,,,0,,,0,1,1,0,1,phenadoxone,phenadoxone,-,"6-morpholin-4-yl-4,4-diphenylheptan-3-one",xone
+phenampromide,0,,,0,,,0,1,1,0,1,phenampromide,phenampromide,-,N-phenyl-N-(1-piperidin-1-ylpropan-2-yl)propanamide,mide
+phenazocine,1,N02AD02,analgesics,0,,,0,1,1,1,1,phenazocine,phenazocine,-,"1,13-dimethyl-10-(2-phenylethyl)-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-4-ol",cine
+pheneridine,0,,,0,,,0,0,0,0,1,pheneridine,-,-,"ethyl 4-phenyl-1-(2-phenylethyl)piperidine-4-carboxylate
+
+",dine
+phenomorphan,0,,,0,,,0,1,1,0,1,phenomorphan,phenomorphan,-,"(1R,9R,10R)-17-(2-phenylethyl)-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol",phan
+phenoperidine,1,N01AH04,anaesthetic,0,,,0,1,1,1,1,phenoperidine,-,-,ethyl 1-(3-hydroxy-3-phenylpropyl)-4-phenylpiperidine-4-carboxylate,dine
+pholcodine,1,R05DA08,cough suppressant,1,0309010X0; 0309020AB,3.9.1; 3.9.2,1,1,1,0,1,pholcodine,pholcodine,-,"(4R,4aR,7S,7aR,12bS)-3-methyl-9-(2-morpholin-4-ylethoxy)-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol",dine
+picenadol,0,,,0,,,0,0,0,1,1,picenadol,-,-,"3-[(3R,4S)-1,3-dimethyl-4-propylpiperidin-4-yl]phenol
+
+",adol
+piminodine,0,,,0,,,0,1,1,0,1,piminodine,piminodine,-,ethyl 1-(3-anilinopropyl)-4-phenylpiperidine-4-carboxylate,dine
+pinadoline,0,,,0,,,0,0,0,0,1,pinadoline,-,pinadoline,"3-chloro-N'-(5-chloropentanoyl)-6H-benzo[b][1,4]benzoxazepine-5-carbohydrazide",line
+piritramide,1,N02AC03,analgesics,0,,,0,1,1,1,1,piritramide,piritramide,-,"1-(3-cyano-3,3-diphenylpropyl)-4-piperidin-1-ylpiperidine-4-carboxamide",mide
+prodine,0,,,0,,,0,0,0,0,0,,,,"(1,3-dimethyl-4-phenylpiperidin-4-yl) propanoate ",dine
+proheptazine,0,,,0,,,0,1,1,0,1,proheptazine,proheptazine,-,"(1,3-dimethyl-4-phenylazepan-4-yl) propanoate",zine
+properidine,0,,,0,,,0,1,0,0,1,properidine,properidine,-,propan-2-yl 1-methyl-4-phenylpiperidine-4-carboxylate,dine
+propiram,0,,,0,,,0,1,1,1,1,propiram,propiram fumarate,propiram fumarate ,N-(1-piperidin-1-ylpropan-2-yl)-N-pyridin-2-ylpropanamide,iram
+proxorphan,0,,,0,,,0,0,0,0,1,proxorphan,-,proxorphan tartrate,"(1S,9R,10R)-17-(cyclopropylmethyl)-13-oxa-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol",phan
+quadazocine,0,,,0,,,1,0,0,0,1,quadazocine,quadazocine,quadazocine mesylate,"1-cyclopentyl-5-[(1S,9R)-4-hydroxy-1,10,13-trimethyl-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-13-yl]pentan-3-one",cine
+R-30490,0,,,0,,,0,0,0,0,0,,,,N-[4-(methoxymethyl)-1-(2-phenylethyl)piperidin-4-yl]-N-phenylpropanamide,-
+remifentanil,1,N01AH06,anaesthetic,1,1501010Q0,15.1.1,1,1,1,1,1,remifentanil,remifentanil,remifentanil hydrochloride,methyl 1-(3-methoxy-3-oxopropyl)-4-(N-propanoylanilino)piperidine-4-carboxylate,anyl
+sameridine,0,,,0,,,0,0,0,0,1,sameridine,-,-,N-ethyl-1-hexyl-N-methyl-4-phenylpiperidine-4-carboxamide,dine
+semorphone,0,,,0,,,0,0,0,0,1,semorphone,-,-,"(4R,4aS,7aR,12bS)-4a,9-dihydroxy-3-(2-methoxyethyl)-2,4,5,6,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one",hone
+spiradoline,0,,,0,,,1,0,0,1,1,spiradoline,-,spiradoline mesylate,"2-(3,4-dichlorophenyl)-N-methyl-N-[(5R,7S,8S)-7-pyrrolidin-1-yl-1-oxaspiro[4.5]decan-8-yl]acetamide",line
+sufentanil,1,N01AH03,anaesthetic,0,,,1,1,1,1,1,sufentanil,sufentanil,sufentanil citrate,N-[4-(methoxymethyl)-1-(2-thiophen-2-ylethyl)piperidin-4-yl]-N-phenylpropanamide,anyl
+tapentadol,1,N02AX06,analgesics,1,0407020AG,4.7.2,1,0,1,1,1,tapentadol,-,tapentadol,"3-[(2R,3R)-1-(dimethylamino)-2-methylpentan-3-yl]phenol",adol
+tetrahydrofuranylfentanyl,0,,,0,,,0,1,0,0,0,,,,N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]oxolane-2-carboxamide,anyl
+tetramethylcyclopropylfentanyl,0,,,0,,,0,0,0,0,0,,,,"2,2,3,3-tetramethyl-N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]cyclopropane-1-carboxamide  ",anyl
+thebacon,1,R05DA10,cough suppressant,0,,,0,1,1,0,1,thebacon,thebacon,-,"[(4R,4aR,7aR,12bS)-9-methoxy-3-methyl-2,4,4a,5,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl] acetate",acon
+thebaine,0,,,0,,,0,1,1,0,0,,,,"(4R,7aR,12bS)-7,9-dimethoxy-3-methyl-2,4,7a,13-tetrahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline",aine
+thiafentanil,0,,,0,,,0,0,0,0,0,,,,methyl 4-(N-(2-methoxyacetyl)anilino)-1-(2-thiophen-2-ylethyl)piperidine-4-carboxylate,anyl
+thiofentanyl,0,,,0,,,0,1,0,0,0,,,,N-phenyl-N-[1-(2-thiophen-2-ylethyl)piperidin-4-yl]propanamide ,anyl
+tianeptine,0,,,0,,,0,0,1,0,1,tianeptine,-,-,"7-[(3-chloro-6-methyl-5,5-dioxo-11H-benzo[c][2,1]benzothiazepin-11-yl)amino]heptanoic acid",tine
+tilidine,1,N02AX01,analgesics,0,,,0,1,1,1,1,tilidine,tilidate,tilidine hydroxhloride,"ethyl (1S,2R)-2-(dimethylamino)-1-phenylcyclohex-3-ene-1-carboxylate
+
+",dine
+tonazocine,0,,,0,,,0,0,0,0,1,tonazocine,-,tonazocine,"1-[(1R,9S,13S)-4-hydroxy-1,10,13-trimethyl-10-azatricyclo[7.3.1.02,7]trideca-2(7),3,5-trien-13-yl]octan-3-one
+",cine
+tramadol,1,N02AX02; N02AJ13 N02AJ14; N02AJ15; ,analgesics,1,40702040,4.7.2,1,0,1,1,1,tramadol,tramadol,tramadol hydrochloride,"(1R,2R)-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexan-1-ol",adol
+trefentanil,0,,,0,,,0,0,0,1,1,trefentanil,-,trefentanil hydrochloride,"N-[1-[2-(4-ethyl-5-oxotetrazol-1-yl)ethyl]-4-phenylpiperidin-4-yl]-N-(2-fluorophenyl)propanamide
+
+",anyl
+trimebutine,1,A03AA05,drugs for functional gastrointestinal disorders,0,,,0,0,1,0,1,trimebutine,trimebutine,-,"[2-(dimethylamino)-2-phenylbutyl] 3,4,5-trimethoxybenzoate",tine
+trimeperidine,0,,,0,,,0,1,1,1,1,trimeperidine,trimeperidine,-,"(1,2,5-trimethyl-4-phenylpiperidin-4-yl) propanoate",dine
+U-47700,0,,,0,,,0,1,0,0,0,,,,"3,4-dichloro-N-[2-(dimethylamino)cyclohexyl]-N-methylbenzamide",-
+valerylfentanyl ,0,,,0,,,0,1,0,0,0,,,,N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]pentanamide,anyl
+veradoline,0,,,0,,,0,0,0,0,1,veradoline,-,veradoline hydrochloride,"4-[2-(6,7-dimethoxy-1-methyl-3,4-dihydro-1H-isoquinolin-2-yl)ethyl]aniline",line
+volazocine,0,,,0,,,0,0,0,0,1,volazocine,-,volazocine,"10-(cyclopropylmethyl)-1,13-dimethyl-10-azatricyclo[7.3.1.02,7]trideca-2,4,6-triene",cine
+xorphanol,0,,,0,,,0,0,0,0,1,xorphanol,-,xorphanol mesylate,"(1R,9R,10R,11S)-17-(cyclobutylmethyl)-11-methyl-13-methylidene-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol",anol
