@@ -1,10 +1,11 @@
-﻿drug_name,molecular_formula,mole_weight_g_mol​,MOP,effect_MOP,DOP,effect_DOP,KOP,effect_KOP,NOP,effect_NOP,class
+﻿index_drug_name,molecular_formula,mole_weight_g_mol​,MOP,effect_MOP,DOP,effect_DOP,KOP,effect_KOP,NOP,effect_NOP,class
 3-methylfentanyl,C23H30N2O ,350.5,1,agonist,1,agonist,1,agonist,0,,synthetic
 3-methylthiofentanyl,C21H28N2OS,356.5,1,agonist,1,agonist,1,agonist,0,,synthetic
 4-chloroisobutyrfentanyl,C23H29ClN2O,384.95,,,,,,,,,synthetic
 4-fluoroisobutyrfentanyl,C23H29FN2O,368.5,1,agonist,,,,,,,synthetic
 4-phenylfentanyl,"	C28H32N2O",412.6,,,,,,,,,synthetic
 6'-guanidinonaltrindole,C27H29N5O3,471.5,,,,,1,agonist,,,synthetic
+7-benzylidenenaltrexone ,C27H27NO4,429.5,1,antagonist,1,antagonist,1,antagonist,,,synthetic
 acetorphine,C27H35NO5,453.6,,,,,,,,,synthetic
 acetyldihydrocodeine,C20H25NO4,343.4,,,,,,,,,semi-synthetic
 acetylfentanyl,C21H26N2O,322.4,1,agonist,,,,,,,synthetic
@@ -85,8 +86,8 @@ dimemorfan,C18H25NO,255.4,,,,,,,,,synthetic
 dimenoxadol,C20H25NO3,327.4,,,,,,,,,synthetic
 dimepheptanol,C21H29NO,311.5,,,,,,,,,synthetic
 dimethylthiambutene,C14H17NS2,263.4,1,agonist,1,agonist,,,,,synthetic
-dinalbuphine,C52H68N2O10,881.1,,,,,,,,,synthetic
-dioxaphetyl,C22H27NO3,353.5,1,agonist,1,agonist,1,agonist,,,synthetic
+dinalbuphine sebacate,C52H68N2O10,881.1,,,,,,,,,synthetic
+dioxaphetyl butyrate,C22H27NO3,353.5,1,agonist,1,agonist,1,agonist,,,synthetic
 diphenoxylate,"	C30H32N2O2",452.6,1,agonist,1,agonist,0,,,,synthetic
 dipipanone,C24H31NO,349.5,,,,,,,,,synthetic
 diprenorphine,C26H35NO4,425.6,1,antagonist,1,antagonist,1,antagonist,,,synthetic
@@ -107,13 +108,15 @@ fluradoline,C17H16FNOS,301.4,,,,,,,,,synthetic
 furanylfentanyl,C24H26N2O2,374.5,1,agonist,1,partial agonist,1,partial agonist,,,synthetic
 furethidine,C21H31NO4,361.5,,,,,,,,,synthetic
 gemazocine,C20H29NO,299.4,,,,,,,,,synthetic
+GSK1521498,C24H20F2N4,402.4,1,antagonist,,,,,,,synthetic
 homprenorphine ,"	C28H37NO4",451.6,,,,,,,,,semi-synthetic
 hydrocodone,C18H21NO3,299.4,1,agonist,0,,1,agonist,,,semi-synthetic
 hydromorphinol,C17H21NO4,303.35,,,,,,,,,semi-synthetic
 hydromorphone,C17H19NO3,285.34,1,agonist,1,agonist,1,agonist,,,semi-synthetic
 hydroxypethidine,C15H21NO3,263.33,,,,,,,,,synthetic
 ibazocine,C20H29NO,299.4,,,,,,,,,synthetic
-IQMF-4,,,1,agonist,,,,,,,synthetic
+ICI-174864,C34H46N4O6,606.8,,,1,antagonist,,,,,synthetic
+IQMF-4,C25H31N4O1,457.02,1,agonist,,,,,,,synthetic
 isobutyrylfentanyl,C23H30N2O,350.5,1,agonist,,,,,,,synthetic
 isofentanyl,C22H28N2O2,336.5,,,,,,,,,synthetic
 isomethadone,C21H27NO,309.4,1,agonist,1,agonist,0,,,,synthetic
@@ -142,7 +145,7 @@ methylnaltrexone,C21H26NO4+,356.4,1,antagonist,1,antagonist,1,antagonist,,,synth
 metopon,C18H21NO3,299.4,1,agonist,,,,,,,semi-synthetic
 mirfentanil,C22H24N4O2,376.5,1,agonist,0,,0,,,,synthetic
 morpheridine,C20H30N2O3,346.5,,,,,,,,,synthetic
-morphine glucuronide,C17H19NO3,285.34,1,agonist,1,agonist,1,agonist,,,alkaloid
+morphine,C17H19NO3,285.34,1,agonist,1,agonist,1,agonist,,,alkaloid
 moxazocine,C18H25NO2,287.4,,,,,,,,,synthetic
 MT-45,"	C24H32N2",348.5,1,agonist,1,agonist,1,agonist,,,synthetic
 myrophine,C38H51NO4,585.8,,,,,,,,,semi-synthetic
@@ -156,6 +159,8 @@ nalorphine,C19H21NO3,311.4,1,mixed,0,,1,agonist,,,semi-synthetic
 naloxegol,C34H53NO11,651.8,1,antagonist,0,,0,,,,synthetic
 naloxone,C19H21NO4,327.4,1,antagonist,1,antagonist,1,antagonist,,,semi-synthetic
 naltrexone,C20H23NO4,341.4,1,antagonist,1,antagonist,1,antagonist,,,semi-synthetic
+naltriben,C26H25NO4,415.5,1,antagonist,1,antagonist,1,antagonist,,,synthetic
+naltrindole,C26H26N2O3,414.5,1,antagonist,1,antagonist,1,antagonist,,,synthetic
 narceine,C23H27NO8,445.5,,,,,,,,,alkaloid
 nexeridine,C19H29NO2,303.4,,,,,,,,,synthetic
 nicocodine,"	C24H24N2O4",404.5,,,,,,,,,semi-synthetic
@@ -171,7 +176,6 @@ noscapine,C22H23NO7,413.4,,,,,,,,,alkaloid
 ocfentanil,C22H27FN2O2,370.5,1,agonist,,,,,,,synthetic
 ohmefentanyl,C23H30N2O2,366.5,1,agonist,0,,0,,,,synthetic
 oliceridine,"	C22H30N2O2S",386.6,1,agonist,,,,,,,synthetic
-opium,,,1,agonist,1,agonist,1,agonist,,,alkaloid
 oripavine,C18H19NO3,297.3,,,,,,,,,alkaloid
 orthofluorofentanyl,"	C22H27FN2O",354.5,1,agonist,,,,,,,synthetic
 oxilorphan,C20H27NO2,313.4,1,antagonist,0,,1,agonist,,,synthetic
@@ -217,6 +221,7 @@ thiafentanil,C22H28N2O4S,416.5,1,agonist,,,,,,,synthetic
 thiofentanyl,C22H28N2O3S,400.5,1,agonist,,,,,,,synthetic
 tianeptine,C21H25ClN2O4S,437,1,agonist,,,,,,,synthetic
 tilidine,C17H23NO2,273.37,1,agonist,,,,,,,synthetic
+TIPP-psi,C37H40N4O5,620.7,,,1,antagonist,,,,,synthetic
 tonazocine,C23H35NO2,357.5,1,mixed,1,mixed,,,,,synthetic
 tramadol,C16H25NO2,263.37,1,agonist,1,agonist,1,agonist,,,synthetic
 trefentanil,C25H31FN6O2,466.6,1,agonist,,,,,,,synthetic
